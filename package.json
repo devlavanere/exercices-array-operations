@@ -1,0 +1,13 @@
+{
+  "name": "atividade-array",
+  "version": "1.0.0",
+  "description": "Atividade para  manipulação de arrays",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel",
+  "license": "ISC",
+  "type": "module"
+
+}
